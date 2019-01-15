@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="450a6a13-b7ba-4b74-8e75-b44fca612092" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ultimate.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ultimate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VeryHard.html" beforeDir="false" afterPath="$PROJECT_DIR$/VeryHard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hard.html" beforeDir="false" afterPath="$PROJECT_DIR$/hard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/normal.html" beforeDir="false" afterPath="$PROJECT_DIR$/normal.html" afterDir="false" />
-    </list>
+    <list default="true" id="450a6a13-b7ba-4b74-8e75-b44fca612092" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -34,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hard.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="hard.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="149" column="65" lean-forward="true" selection-start-line="149" selection-start-column="65" selection-end-line="149" selection-end-column="65" />
+            <state relative-caret-position="343">
+              <caret line="160" column="22" lean-forward="true" selection-start-line="160" selection-start-column="22" selection-end-line="160" selection-end-column="22" />
               <folding>
                 <element signature="n#ul#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="e#15343#15375#0" expanded="true" />
@@ -464,7 +458,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VeryHard.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="VeryHard.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/VeryHard.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="211">
@@ -610,7 +604,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547536712842</updated>
-      <workItem from="1547536714138" duration="8747000" />
+      <workItem from="1547536714138" duration="9157000" />
     </task>
     <task id="LOCAL-00001" summary="normal">
       <created>1547545887387</created>
@@ -619,17 +613,23 @@
       <option name="project" value="LOCAL" />
       <updated>1547545887387</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="normal">
+      <created>1547546284902</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1547546284902</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8747000" />
+    <option name="totallyTimeSpent" value="9157000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="77" y="23" width="1803" height="924" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1352413" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1352413" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -637,7 +637,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.25124377" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.25124377" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -690,10 +690,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Ultimate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110912">
+          <caret line="4654" column="28" selection-start-line="4654" selection-start-column="28" selection-end-line="4654" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VeryHard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="117" column="50" lean-forward="true" selection-start-line="117" selection-start-column="50" selection-end-line="117" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/normal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87815">
+          <caret line="3687" column="31" selection-start-line="3687" selection-start-column="31" selection-end-line="3687" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#li#0;n#ul#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="149" column="65" lean-forward="true" selection-start-line="149" selection-start-column="65" selection-end-line="149" selection-end-column="65" />
+        <state relative-caret-position="343">
+          <caret line="160" column="22" lean-forward="true" selection-start-line="160" selection-start-column="22" selection-end-line="160" selection-end-column="22" />
           <folding>
             <element signature="n#ul#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="e#15343#15375#0" expanded="true" />
@@ -1106,30 +1130,6 @@
             <element signature="n#style#0;n#td#0;n#tr#9;n#tbody#0;n#table#0;n#center#5;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#0;n#tr#10;n#tbody#0;n#table#0;n#center#5;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/normal.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87815">
-          <caret line="3687" column="31" selection-start-line="3687" selection-start-column="31" selection-end-line="3687" selection-end-column="31" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#li#0;n#ul#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ultimate.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110912">
-          <caret line="4654" column="28" selection-start-line="4654" selection-start-column="28" selection-end-line="4654" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VeryHard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="117" column="50" lean-forward="true" selection-start-line="117" selection-start-column="50" selection-end-line="117" selection-end-column="50" />
         </state>
       </provider>
     </entry>
