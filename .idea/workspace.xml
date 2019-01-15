@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="450a6a13-b7ba-4b74-8e75-b44fca612092" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="450a6a13-b7ba-4b74-8e75-b44fca612092" name="Default" comment="normal">
+      <change beforePath="$PROJECT_DIR$/Hard.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Normal.html" beforeDir="false" afterPath="$PROJECT_DIR$/Normal.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ultimate.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ultimate.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/VeryHard.html" beforeDir="false" afterPath="$PROJECT_DIR$/VeryHard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hard.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/normal.html" beforeDir="false" afterPath="$PROJECT_DIR$/Normal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/analytics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/recaptcha__zh_cn.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,8 +38,8 @@
       <file leaf-file-name="Hard.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="208">
+              <caret line="4343" column="2" selection-start-line="4343" selection-start-column="6" selection-end-line="4362" selection-end-column="17" />
               <folding>
                 <element signature="n#ul#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="e#15343#15375#0" expanded="true" />
@@ -455,11 +456,23 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="api.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/api.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret column="537" selection-start-column="464" selection-end-column="537" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Ultimate.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Ultimate.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="244">
+              <caret line="4636" column="1" lean-forward="true" selection-start-line="4636" selection-start-column="1" selection-end-line="4655" selection-end-column="17" />
               <folding>
                 <element signature="e#8564#8596#0" expanded="true" />
                 <element signature="e#10587#10619#0" expanded="true" />
@@ -733,8 +746,8 @@
       <file leaf-file-name="VeryHard.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/VeryHard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="4479" selection-start-line="4479" selection-end-line="4479" />
+            <state relative-caret-position="222">
+              <caret line="4450" lean-forward="true" selection-start-line="4450" selection-end-line="4470" selection-end-column="17" />
               <folding>
                 <element signature="e#8589#8621#0" expanded="true" />
                 <element signature="e#10649#10681#0" expanded="true" />
@@ -1120,8 +1133,8 @@
       <file leaf-file-name="Normal.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Normal.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="3704" selection-start-line="3704" selection-end-line="3704" />
+            <state relative-caret-position="146">
+              <caret line="3679" column="9" lean-forward="true" selection-start-line="3679" selection-start-column="9" selection-end-line="3679" selection-end-column="9" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#0;n#li#0;n#ul#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#9176#9208#0" expanded="true" />
@@ -1958,8 +1971,12 @@
       <find>&lt;body</find>
       <find>Drop Rate</find>
       <find>VeryHard</find>
+      <find>gstatic</find>
+      <find>http</find>
+      <find>www.google</find>
       <find>https</find>
       <find>google</find>
+      <find>footer</find>
     </findStrings>
     <replaceStrings>
       <replace>概率</replace>
@@ -2012,6 +2029,11 @@
               <item name="dujy" type="b2602c69:ProjectViewProjectNode" />
               <item name="dujy" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="dujy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dujy" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -2053,7 +2075,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547536712842</updated>
-      <workItem from="1547536714138" duration="9785000" />
+      <workItem from="1547536714138" duration="10711000" />
     </task>
     <task id="LOCAL-00001" summary="normal">
       <created>1547545887387</created>
@@ -2073,7 +2095,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9785000" />
+    <option name="totallyTimeSpent" value="10711000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="77" y="23" width="1803" height="924" extended-state="0" />
@@ -2083,11 +2105,11 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329602" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.25124377" />
+      <window_info anchor="bottom" id="Terminal" weight="0.25124377" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -2140,10 +2162,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/static/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret column="537" selection-start-column="464" selection-end-column="537" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/recaptcha__zh_cn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1514">
+          <caret line="275" column="361" selection-start-line="275" selection-start-column="361" selection-end-line="275" selection-end-column="361" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/analytics.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Hard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="208">
+          <caret line="4343" column="2" selection-start-line="4343" selection-start-column="6" selection-end-line="4362" selection-end-column="17" />
           <folding>
             <element signature="n#ul#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="e#15343#15375#0" expanded="true" />
@@ -2561,8 +2603,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Normal.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="3704" selection-start-line="3704" selection-end-line="3704" />
+        <state relative-caret-position="146">
+          <caret line="3679" column="9" lean-forward="true" selection-start-line="3679" selection-start-column="9" selection-end-line="3679" selection-end-column="9" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#li#0;n#ul#0;n#main#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#9176#9208#0" expanded="true" />
@@ -3376,8 +3418,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Ultimate.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="244">
+          <caret line="4636" column="1" lean-forward="true" selection-start-line="4636" selection-start-column="1" selection-end-line="4655" selection-end-column="17" />
           <folding>
             <element signature="e#8564#8596#0" expanded="true" />
             <element signature="e#10587#10619#0" expanded="true" />
@@ -3649,8 +3691,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/VeryHard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="4479" selection-start-line="4479" selection-end-line="4479" />
+        <state relative-caret-position="222">
+          <caret line="4450" lean-forward="true" selection-start-line="4450" selection-end-line="4470" selection-end-column="17" />
           <folding>
             <element signature="e#8589#8621#0" expanded="true" />
             <element signature="e#10649#10681#0" expanded="true" />
