@@ -1,0 +1,11 @@
+# id
+铬绿 Viridia
+翠绿 Greenill
+天青 Skyly
+纯蓝 Bluefull
+淡紫 Purplenum
+粉红 Pinkal
+真红 Redria
+橙黄 Oran
+金黄 Yellowboze
+羽白 Whitill
