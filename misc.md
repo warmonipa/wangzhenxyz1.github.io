@@ -56,3 +56,4 @@ Imperial Pick     皇家之戟
 God/Mind          天神级/精神
 Cure/Confuse      状态预防/混乱
 Cure/Freeze       状态预防/冰冻
+Silence Claw      沉默爪
