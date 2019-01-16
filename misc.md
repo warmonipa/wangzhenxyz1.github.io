@@ -55,6 +55,31 @@ La Dimenian/Merlan 刀魔将/异魔将
 So Dimenian/Del-D 刀魔王/异魔王
 Dark Falz/Dark Falz 暗黑佛
 
+
+
+Boota 变异猪
+Za Boota 狂影变异猪
+Ba Boota 巨角变异猪
+Dorphon 铁甲巨象
+Dorphon Eclair 暗黑铁甲巨象
+Sand Rappy 沙地拉比鸟
+Del Rappy 暗黑拉比鸟
+Satellite Lizard 沙暴蜥蜴
+Yowie 砂岩蜥蜴
+Zu 巨型火犀鸟
+Pazuzu 变异羚角鸟
+Astark 异甲巨螳螂
+
+Goran 暗黑刀魔
+Pyro Goran 暗黑狂刀魔
+Goran Detonator 暗黑巨魔王
+Merissa A 媚影沙魔A
+Merissa AA 媚影沙魔AA
+Girtablulu 暗黑魔眼巨花
+Saint Million 圣魔龙
+Shambertin 沙柏龙
+Kondrieu 空间龙
+
 # 道具
 Star Amplifier  星型增幅器
 Flowen's Sword  佛洛文大剑
