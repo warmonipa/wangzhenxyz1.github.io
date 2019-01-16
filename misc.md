@@ -54,6 +54,26 @@ Sinow Berill/Sinow Berill 森隐雷藏
 Sinow Spigell/Sinow Spigell 雾隐雷藏
 Gal Gryphon/Gal Gryphon 加尔·狮鹫
 
+Forest 森林
+Cave   洞窟
+Mine 坑道
+Ruins 遗迹
+VR Temple  神殿
+VR Spaceship 宇宙船
+Jungle North 密林北
+Jungle East  密林东
+Mountain 高山区
+Seaside / CCA 海边/中央控制区
+Seabed: Upper Levels  海底上层
+Seabed: Lower Levels  海底下层
+
+Crater East 陨石坑东
+Crater West 陨石坑西
+Crater South 陨石坑南
+Crater North 陨石坑北
+Crater Int.  陨石坑内部
+Desert 沙漠
+
 
 Dolmolm/Dolmolm 青鱿
 Dolmdarl/Dolmdarl 赤鱿
