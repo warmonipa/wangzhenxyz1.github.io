@@ -16,7 +16,7 @@ Hildebear/Hildelt 狂暴巨猿/雷暴巨猿
 Hildeblue/Hildetorr 狂暴白猿/暗黑巨猿
 Mothmant/Mothvert 吸血巨蚊/嗜血巨蚊
 Monest/Mothvist  吸血巨蚊巢|嗜血巨蚊巢   
-Rag Rappy/El Rappy|Al Rappy/Pal Rappy 黄拉比鸟/蓝拉比鸟|白拉比鸟/彩虹拉比鸟 
+Rag Rappy/El Rappy|Al Rappy/Pal Rappy Love Rappy 黄拉比鸟/蓝拉比鸟|白拉比鸟/彩虹拉比鸟/爱之拉比鸟
 Savage Wolf/Barbarous Wolf/Gulgus|Gulgus-Gue 狂狼/狂狼王|角狼/角狼王 
 Booma/Bartle 棕狂熊/紫魔龟
 Gobooma/Barble ~~黄狂熊/蓝魔龟~~
@@ -34,6 +34,39 @@ Pan Arms/Pan Arms 合体怪
 Migium/Migium 冰剑怪
 Hidoom/Hidoom  火剑怪
 De Rol Le/Dal Ral Lie 迪·洛尔·雷/达尔·拉·利
+Barba Ray/Barba Ray 巴尔·巴雷
+St. Rappy/St. Rappy 圣诞节拉比鸟
+Halo Rappy/Halo Rappy 万圣节拉比鸟
+Egg Rappy/Egg Rappy 复活节拉比鸟
+Gol Dragon/Gol Dragon 数码暴龙
+
+Merillia/Merillia 毒梅兰
+Meriltas/Meriltas 狂梅兰
+Gee/Gee 姬蜂
+Gi Gue/Gi Gue 姬蜂后
+Mericarol/Mericarol 红蝎花
+Merikle/Merikle 蓝蝎花
+Mericus/Mericus 绿蝎花
+Ul Gibbon/Ul Gibbon 幽猿
+Zol Gibbon/Zol Gibbon 泽猿
+Gibbles/Gibbles 蛮甲猿
+Sinow Berill/Sinow Berill 森隐雷藏
+Sinow Spigell/Sinow Spigell 雾隐雷藏
+Gal Gryphon/Gal Gryphon 加尔·狮鹫
+
+
+Dolmolm/Dolmolm 青鱿
+Dolmdarl/Dolmdarl 赤鱿
+Morfos/Morfos 暗腐蝶
+Recon/Recon 爆防机
+Sinow Zoa/Sinow Zoa 湛蓝光武
+Sinow Zele/Sinow Zele 绯红光武
+Deldepth/Deldepth 暗黑魔精
+Delbiter/Delbiter 暗黑麒麟
+Olga Flow/Olga Flow 奥迦·弗罗文
+Ill Gill/Ill Gill 恶镰死神
+Del Lily/Del Lily 暗铃兰
+Epsilon/Epsilon 厄普西隆
 
 Dubchic/Dubchich 步行机兵/浮游机将
 Gilchic/Gilchich 傀儡机兵/傀儡机将
