@@ -53,6 +53,7 @@ Bulk/Bulk 合体爪魔
 Dimenian/Arlan 刀魔兵/异魔兵
 La Dimenian/Merlan 刀魔将/异魔将
 So Dimenian/Del-D 刀魔王/异魔王
+Dark Falz/Dark Falz 暗黑佛
 
 # 道具
 Star Amplifier  星型增幅器
