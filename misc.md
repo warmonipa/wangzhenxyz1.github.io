@@ -1,175 +1,198 @@
-# id
-铬绿 Viridia
-翠绿 Greenill
-天青 Skyly
-纯蓝 Bluefull
-淡紫 Purplenum
-粉红 Pinkal
-真红 Redria
-橙黄 Oran
-金黄 Yellowboze
-羽白 Whitill
+铬绿=Viridia
+翠绿=Greenill
+天青=Skyly
+纯蓝=Bluefull
+淡紫=Purplenum
+粉红=Pinkal
+真红=Redria
+橙黄=Oran
+金黄=Yellowboze
+羽白=Whitill
 
+Hildebear=狂暴巨猿
+Hildelt=雷暴巨猿
+Hildeblue=狂暴白猿
+Hildetorr=暗黑巨猿
+Mothmant=吸血巨蚊
+Mothvert=嗜血巨蚊
+Rag Rappy=黄拉比鸟
+El Rappy=蓝拉比鸟
+Al Rappy=白拉比鸟
+Pal Rappy=彩虹拉比鸟
+Love Rappy=爱之拉比鸟
+St. Rappy=圣诞节拉比鸟
+Halo Rappy=万圣节拉比鸟
+Egg Rappy=复活节拉比鸟
+Savage Wolf=狂狼
+Barbarous Wolf=狂狼王
+Gulgus=角狼
+Gulgus-Gue=角狼王 
+Booma=棕狂熊
+Bartle=紫魔龟
+Gobooma=黄狂熊
+Barble=蓝魔龟
+Gigobooma=红狂熊
+Tollaw=魔螳螂
+Dragon=赤焰巨龙
+Sil Dragon=冰霜巨龙
+Grass Assassin=巨螳螂
+Crimson Assassin=嗜血巨螳螂 
+Poison Lily=毒铃兰
+Ob Lily =变种铃兰
+Nar Lily=红铃兰
+Mil Lily=异种铃兰
+Nano Dragon=翼龙
+Evil Shark=绿鲨魔
+Vulmer=紫鲨熊
+Pal Shark=紫鲨魔
+Govulmer=蓝鲨熊
+Guil Shark=狂鲨魔
+Melqueek=变种鲨熊
+Pofuilly Slime=冰史莱姆
+Pofuilly Slime=炎史莱姆  //todo 
+Pan Arms=合体怪
+Migium=冰剑怪
+Hidoom=火剑怪
+De Rol Le=迪·洛尔·雷
+Dal Ral Lie=达尔·拉·利
+Barba Ray=巴尔·巴雷
+Gol Dragon=数码暴龙
+Merillia=毒梅兰
+Meriltas=狂梅兰
+Gee/=姬蜂
+Gi Gue=姬蜂后
+Mericarol=红蝎花
+Merikle=蓝蝎花
+Mericus/=绿蝎花
+Ul Gibbon=幽猿
+Zol Gibbon=泽猿
+Gibbles=蛮甲猿
+Sinow Berill=森隐雷藏
+Sinow Spigell=雾隐雷藏
+Gal Gryphon=加尔·狮鹫
+Dolmolm=青鱿
+Dolmdarl=赤鱿
+Morfos=暗腐蝶
+Recon=爆防机
+Sinow Zoa=湛蓝光武
+Sinow Zele=绯红光武
+Deldepth=暗黑魔精
+Delbiter=暗黑麒麟
+Olga Flow=奥迦·弗罗文
+Ill Gill=恶镰死神
+Del Lily=暗铃兰
+Epsilon=厄普西隆
+Dubchic=步行机兵
+Dubchich=浮游机将
+Gilchic=傀儡机兵
+Gilchich=傀儡机将
+Garanz=机甲堡垒
+Baranz=机甲堡垒·改
+Sinow Beat=蓝机忍
+Sinow Blue=紫机忍
+Sinow Gold=金机忍
+Sinow Red=红机忍
+Canadine=电爪
+Canane=核心电爪
+Canabin=强化电爪
+Canune=强化核心电爪
+Vol Opt=波鲁欧普
+Vol Opt ver. 2=波鲁欧普·改
+Delsaber=剑魔
+Chaos Sorcerer=混沌法师
+Gran Sorcerer=毁灭法师
+Dark Gunner=暗黑炮台
+Chaos Bringer=混沌骑士
+Dark Bringer=暗黑骑士
+Dark Belra=暗黑巨神像
+Indi Belra=远古巨神像
+Claw=爪虫
+Bulk=合体爪魔
+Dimenian=刀魔兵
+Arlan=异魔兵
+La Dimenian=刀魔将
+Merlan=异魔将
+So Dimenian=刀魔王
+Del-D=异魔王
+Dark Falz=暗黑佛
+Boota=变异猪
+Za Boota=狂影变异猪
+Ba Boota=巨角变异猪
+Dorphon=铁甲巨象
+Dorphon Eclair=暗黑铁甲巨象
+Sand Rappy=沙地拉比鸟
+Del Rappy=暗黑拉比鸟
+Satellite Lizard=沙暴蜥蜴
+Yowie=砂岩蜥蜴
+Zu=巨型火犀鸟
+Pazuzu=变异羚角鸟
+Astark=异甲巨螳螂
+Goran=暗黑刀魔
+Pyro Goran=暗黑狂刀魔
+Goran Detonator=暗黑巨魔王
+Merissa=媚影沙魔
+Girtablulu=暗黑魔眼巨花
+Saint Million=圣魔龙
+Shambertin=沙柏龙
+Kondrieu=空间龙
 
-# 怪
-Hildebear/Hildelt 狂暴巨猿/雷暴巨猿
-Hildeblue/Hildetorr 狂暴白猿/暗黑巨猿
-Mothmant/Mothvert 吸血巨蚊/嗜血巨蚊
-Monest/Mothvist  吸血巨蚊巢|嗜血巨蚊巢   
-Rag Rappy/El Rappy|Al Rappy/Pal Rappy Love Rappy 黄拉比鸟/蓝拉比鸟|白拉比鸟/彩虹拉比鸟/爱之拉比鸟
-Savage Wolf/Barbarous Wolf/Gulgus|Gulgus-Gue 狂狼/狂狼王|角狼/角狼王 
-Booma/Bartle 棕狂熊/紫魔龟
-Gobooma/Barble ~~黄狂熊/蓝魔龟~~
-Gigobooma/Tollaw 红狂熊/魔螳螂
-Dragon/Sil Dragon 赤焰巨龙/冰霜巨龙
-Grass Assassin/Crimson Assassin 巨螳螂/嗜血巨螳螂 
-Poison Lily/Ob Lily 毒铃兰/变种铃兰
-Nar Lily/Mil Lily 红铃兰/异种铃兰
-Nano Dragon 翼龙
-Evil Shark/Vulmer 绿鲨魔/紫鲨熊
-Pal Shark/Govulmer 紫鲨魔/蓝鲨熊
-Guil Shark/Melqueek 狂鲨魔/变种鲨熊
-Pofuilly Slime/Pofuilly Slime 冰史莱姆/炎史莱姆 
-Pan Arms/Pan Arms 合体怪
-Migium/Migium 冰剑怪
-Hidoom/Hidoom  火剑怪
-De Rol Le/Dal Ral Lie 迪·洛尔·雷/达尔·拉·利
-Barba Ray/Barba Ray 巴尔·巴雷
-St. Rappy/St. Rappy 圣诞节拉比鸟
-Halo Rappy/Halo Rappy 万圣节拉比鸟
-Egg Rappy/Egg Rappy 复活节拉比鸟
-Gol Dragon/Gol Dragon 数码暴龙
+Forest=森林
+Cave=洞窟
+Mine=坑道
+Ruins=遗迹
+VR Temple=神殿
+VR Spaceship=宇宙船
+Jungle North=密林北
+Jungle East=密林东
+Mountain=高山区
+Seaside=海边
+CCA=中央控制区
+Seabed=海底
+Upper Levels=上层
+Lower Levels=下层
+Crater East=陨石坑-东
+Crater West=陨石坑-西
+Crater South=陨石坑-南
+Crater North=陨石坑-北
+Crater Int.=陨石坑-中心
+Desert=沙漠
 
-Merillia/Merillia 毒梅兰
-Meriltas/Meriltas 狂梅兰
-Gee/Gee 姬蜂
-Gi Gue/Gi Gue 姬蜂后
-Mericarol/Mericarol 红蝎花
-Merikle/Merikle 蓝蝎花
-Mericus/Mericus 绿蝎花
-Ul Gibbon/Ul Gibbon 幽猿
-Zol Gibbon/Zol Gibbon 泽猿
-Gibbles/Gibbles 蛮甲猿
-Sinow Berill/Sinow Berill 森隐雷藏
-Sinow Spigell/Sinow Spigell 雾隐雷藏
-Gal Gryphon/Gal Gryphon 加尔·狮鹫
-
-Forest 森林
-Cave   洞窟
-Mine 坑道
-Ruins 遗迹
-VR Temple  神殿
-VR Spaceship 宇宙船
-Jungle North 密林北
-Jungle East  密林东
-Mountain 高山区
-Seaside / CCA 海边/中央控制区
-Seabed: Upper Levels  海底上层
-Seabed: Lower Levels  海底下层
-
-Crater East 陨石坑东
-Crater West 陨石坑西
-Crater South 陨石坑南
-Crater North 陨石坑北
-Crater Int.  陨石坑内部
-Desert 沙漠
-
-
-Dolmolm/Dolmolm 青鱿
-Dolmdarl/Dolmdarl 赤鱿
-Morfos/Morfos 暗腐蝶
-Recon/Recon 爆防机
-Sinow Zoa/Sinow Zoa 湛蓝光武
-Sinow Zele/Sinow Zele 绯红光武
-Deldepth/Deldepth 暗黑魔精
-Delbiter/Delbiter 暗黑麒麟
-Olga Flow/Olga Flow 奥迦·弗罗文
-Ill Gill/Ill Gill 恶镰死神
-Del Lily/Del Lily 暗铃兰
-Epsilon/Epsilon 厄普西隆
-
-Dubchic/Dubchich 步行机兵/浮游机将
-Gilchic/Gilchich 傀儡机兵/傀儡机将
-Garanz/Baranz 机甲堡垒/机甲堡垒·改
-Sinow Beat/Sinow Blue 蓝机忍/紫机忍
-Sinow Gold/Sinow Red 金机忍/红机忍
-Canadine/Canabin 电爪/强化电爪
-Canane/Canune 核心电爪/强化核心电爪
-Vol Opt/Vol Opt ver. 2 波鲁欧普/波鲁欧普·改
-Delsaber/Delsaber 剑魔
-Chaos Sorcerer/Gran Sorcerer 混沌法师/毁灭法师
-Dark Gunner/Death Gunner 暗黑炮台/死亡炮台
-Chaos Bringer/Dark Bringer 混沌骑士/暗黑骑士
-Dark Belra/Indi Belra 暗黑巨神像/远古巨神像
-Claw/Claw 爪虫
-Bulk/Bulk 合体爪魔
-Dimenian/Arlan 刀魔兵/异魔兵
-La Dimenian/Merlan 刀魔将/异魔将
-So Dimenian/Del-D 刀魔王/异魔王
-Dark Falz/Dark Falz 暗黑佛
-
-
-
-Boota 变异猪
-Za Boota 狂影变异猪
-Ba Boota 巨角变异猪
-Dorphon 铁甲巨象
-Dorphon Eclair 暗黑铁甲巨象
-Sand Rappy 沙地拉比鸟
-Del Rappy 暗黑拉比鸟
-Satellite Lizard 沙暴蜥蜴
-Yowie 砂岩蜥蜴
-Zu 巨型火犀鸟
-Pazuzu 变异羚角鸟
-Astark 异甲巨螳螂
-
-Goran 暗黑刀魔
-Pyro Goran 暗黑狂刀魔
-Goran Detonator 暗黑巨魔王
-Merissa A 媚影沙魔A
-Merissa AA 媚影沙魔AA
-Girtablulu 暗黑魔眼巨花
-Saint Million 圣魔龙
-Shambertin 沙柏龙
-Kondrieu 空间龙
-
-# 道具
-Star Amplifier  星型增幅器
-Flowen's Sword  佛洛文大剑
-Elysion         魔法剑
-Smartlink       灵感之环
-Heavenly/Battle 天堂级/战斗
-Luminous Field  冰光服
-Red Saber       红色光剑
-Frozen Shooter  极冻枪
-Heaven Punisher 天罚
-Magic Stone "Iritista" 魔石「伊利提斯塔」
-Syncesta        真空波石
-Mahu            咒符
-Dragon Slayer   斩龙剑
-Diska of Braveman 勇者的飞碟
-Cross Scar        十字疤
-Storm Wand: Indra 雷杖因陀罗
-Gae Bolg          战斗长刀
-Red Scorpio       红蝎
-Guard Wave        波动护甲
-Angel Harp        天使之琴
-HP/Revival        HP/速生
-Sacred Cloth      圣衣
-Agito             颚
-Red Handgun       红色光枪
-Hero/Ability      英雄级/全能力
-Red Partisan      红色长刀
-Stag Cutlery      雄风之剑
-Alive Aqhu        生命壶
-L&K14 Combat      L&K14战场之狼
-Flowen's Frame    弗罗文之铠
-Yamato            双刀大和
-Inferno Bazooka   地狱火箭炮
-Heavenly/Arms     天堂级/命中
-Imperial Pick     皇家之戟
-God/Mind          天神级/精神
-Cure/Confuse      状态预防/混乱
-Cure/Freeze       状态预防/冰冻
-Silence Claw      沉默爪
-Angry Fist        愤怒之拳
+Star Amplifier=星型增幅器
+Flowen's Sword=佛洛文大剑
+Elysion=魔法剑
+Smartlink=灵感之环
+Heavenly/Battle=天堂级/战斗
+Luminous Field=冰光服
+Red Saber=红色光剑
+Frozen Shooter=极冻枪
+Heaven Punisher=天罚
+Magic Stone "Iritista"=魔石-伊利提斯塔
+Syncesta=真空波石
+Mahu=咒符
+Dragon Slayer=斩龙剑
+Diska of Braveman=勇者的飞碟
+Cross Scar=十字疤
+Storm Wand: Indra=雷杖因陀罗
+Gae Bolg=战斗长刀
+Red Scorpio=红蝎
+Guard Wave=波动护甲
+Angel Harp=天使之琴
+HP/Revival=HP/速生
+Sacred Cloth=圣衣
+Agito=颚
+Red Handgun=红色光枪
+Hero/Ability=英雄级/全能力
+Red Partisan=红色长刀
+Stag Cutlery=雄风之剑
+Alive Aqhu=生命壶
+L&K14 Combat=L&K14战场之狼
+Flowen's Frame=弗罗文之铠
+Yamato=双刀大和
+Inferno Bazooka=地狱火箭炮
+Heavenly/Arms=天堂级/命中
+Imperial Pick=皇家之戟
+God/Mind=天神级/精神
+Cure/Confuse=状态预防/混乱
+Cure/Freeze=状态预防/冰冻
+Silence Claw=沉默爪
+Angry Fist=愤怒之拳
