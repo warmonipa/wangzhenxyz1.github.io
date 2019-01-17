@@ -7,7 +7,10 @@
 ## [英文掉落表](http://wangzhenxyz1.github.io/Ultimate.html)
 ## [Discord邀请地址](https://discordapp.com/invite/aSSTbj)
 ## [账号注册](https://ephinea.pioneer2.net/register)
-  `请使用微软live邮箱(注册 https://signup.live.com/?lic=1)，申请完邮箱需登录一次，否者可能收不到邮件，请查看垃圾邮件。`
+注册过程中存在**RECAPTCHA**，需要有科学上网才能看到!!!
+
+  [微软邮箱注册地址](https://signup.live.com/?lic=1)  
+  `推荐使用微软邮箱，，申请完邮箱需登录一次，否者可能收不到邮件，请查看垃圾邮件。`  
 
 ## [客户端下载地址](http://files.pioneer2.net/Ephinea_PSOBB_Installer.exe)
 `群分享已上传`
