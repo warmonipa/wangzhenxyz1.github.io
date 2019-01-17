@@ -1,3 +1,4 @@
+# SectionId
 铬绿=Viridia
 翠绿=Greenill
 天青=Skyly
@@ -9,6 +10,7 @@
 金黄=Yellowboze
 羽白=Whitill
 
+# Beastiary
 Hildebear=狂暴巨猿
 Hildelt=雷暴巨猿
 Hildeblue=狂暴白猿
@@ -136,6 +138,7 @@ Saint Million=圣魔龙
 Shambertin=沙柏龙
 Kondrieu=空间龙
 
+# Area
 Forest=森林
 Cave=洞窟
 Mine=坑道
@@ -157,6 +160,7 @@ Crater North=陨石坑-北
 Crater Int.=陨石坑-中心
 Desert=沙漠
 
+# Weapon Armor Shield Item 
 Star Amplifier=星型增幅器
 Flowen's Sword=佛洛文大剑
 Elysion=魔法剑
