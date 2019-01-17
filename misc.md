@@ -1,6 +1,6 @@
 # SectionId
-铬绿=Viridia
-翠绿=Greenill
+铬绿=Viridia  
+翠绿=Greenill  
 天青=Skyly
 纯蓝=Bluefull
 淡紫=Purplenum
