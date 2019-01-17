@@ -1,3 +1,4 @@
+# encoding:utf-8
 # SectionId  
 铬绿=Viridia  
 翠绿=Greenill  
